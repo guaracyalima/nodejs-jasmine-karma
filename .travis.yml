@@ -13,4 +13,4 @@ install:
   - npm set progress=false
   - npm install
 script:
-  - npm run test
+  - npm run test-prod
