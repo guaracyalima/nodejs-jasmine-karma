@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test-jasmine": "npx jasmine",
-    "test": "npx karma start",
+    "test": "npx karma start"
   },
   "keywords": [],
   "author": "",
