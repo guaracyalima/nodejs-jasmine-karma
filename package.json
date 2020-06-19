@@ -6,7 +6,6 @@
   "scripts": {
     "test-jasmine": "npx jasmine",
     "test": "npx karma start",
-    "test-prod": "npx karma start",
   },
   "keywords": [],
   "author": "",
